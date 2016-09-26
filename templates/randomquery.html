@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Python Starter Application</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" href="stylesheets/style.css" />
+</head>
+<body>
+<form action="randomquery" method="post" >
+<h3> Using without caching </h3>
+Enter the number of random queries <input type= "text" name="number_queries" ><br>
+Enter the number of tuples on which the query is to be run <input type="text" name="number_tuples" ><br>
+<input type="submit" value="Run Query without memcache">
+<br></form>
+
+The values below are to be entered for with caching purpose
+<form action="randomquery_mem" method="post"><br>
+
+<h3>Using caching</h3>
+Enter the number of random querie <input type="text" name="cache_queries"><br>
+Enter the number of tuples on which queries is to be run <input type ="text" name="cache_tuples"><br>
+<br> <input type="submit" value="Query with caching">
+
+</form>
+
+<br>
+<!--<form action="" method="post">
+	<h3> Run the dynamic queries</h3><br>
+	<h3> Without caching the dynamic query is </h3><br>
+	Enter the query here <input type="text" name="dynamic_wo_cache">
+	<input type="submit" value="Dynamic without cache">
+</form>
+
+<br>
+<form action="" method="post">
+	<h3> Run the dynamic queries</h3><br>
+	<h3> Without caching the dynamic query is </h3><br>
+	Enter the query here <input type="text" name="dynamic_wo_cache">
+	<input type="submit" value="Dynamic without cache">
+</form>
+-->
+<br>
+<h3>Prathamesh Palaskar 1001232248 Timing 1 pm batch<h3> <br>
+<form action="quiz_dynamic" method="post">
+	<h3> Run the dynamic queries</h3><br>
+	<h3> Without caching the dynamic query is </h3><br>
+	Enter the query here <input type="text" name="dynamic_wo_cache">
+	<input type="submit" value="Dynamic without cache">
+</form>
+
+</body>
+</html>
