@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-07-11T02:11:04.460Z,0.554,-79.663,19.19,6.3,mww,,38,1.252,1.06,us,us100062hg,2016-07-11T13:56:36.000Z,"32km NW of Rosa Zarate, Ecuador",earthquake,6.1,2.9,,,reviewed,us,us
+2016-06-26T11:17:12.400Z,39.4871,73.3486,20,6.4,mww,,36,1.195,1.06,us,us200066x9,2016-07-11T03:51:56.170Z,"28km SSE of Sary-Tash, Kyrgyzstan",earthquake,5.8,1.8,,,reviewed,us,us
+2016-06-21T17:12:08.430Z,-3.462,151.8538,365.31,6.3,mwb,,12,0.787,0.99,us,us200065sc,2016-06-22T14:38:54.000Z,"68km WNW of Namatanai, Papua New Guinea",earthquake,5.1,3.5,0.063,24,reviewed,us,us
+2016-06-19T09:47:23.600Z,-20.2802,169.0752,13,6.3,mww,,64,13.922,1.05,us,us200065d1,2016-07-02T11:56:30.527Z,"83km SSW of Isangel, Vanuatu",earthquake,10.4,1.8,,,reviewed,us,us
